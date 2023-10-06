@@ -11,6 +11,27 @@
       "title": "Module 3 Project",
       "description": "Create a full-stack application using MERN stack.",
       "userId": 1
+    },
+    {
+      "id": 3
+    },
+    {
+      "title": "testtttt",
+      "description": "yoloooo",
+      "userId": "1",
+      "id": 4
+    },
+    {
+      "title": "testtttt",
+      "description": "yoloooo",
+      "userId": "1",
+      "id": 5
+    },
+    {
+      "title": "testtttt",
+      "description": "yoloooo",
+      "userId": "1",
+      "id": 6
     }
   ],
   "tasks": [
@@ -28,6 +49,50 @@
       "id": 3,
       "projectId": 2,
       "description": "Create a form with 5 input fields"
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "name": "TEST1",
+      "description": "OALLALALALALALAL",
+      "cards": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "2"
+        },
+        {
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "TEST3",
+      "description": "OIAJGIAIERGJAIJJ",
+      "cards": [
+        {
+          "id": "4"
+        },
+        {
+          "id": "5"
+        },
+        {
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "name": "Eugen's collection",
+      "description": "yoloooo",
+      "id": 3
+    },
+    {
+      "anothervar": "Eugen's collection",
+      "NotDescription": "yoloooo",
+      "id": 4
     }
   ]
 }
