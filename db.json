@@ -1,143 +1,24 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    },
-    {
-      "id": 3
-    },
-    {
-      "title": "testtttt",
-      "description": "yoloooo",
-      "userId": "1",
-      "id": 4
-    },
-    {
-      "title": "testtttt",
-      "description": "yoloooo",
-      "userId": "1",
-      "id": 5
-    },
-    {
-      "title": "testtttt",
-      "description": "yoloooo",
-      "userId": "1",
-      "id": 6
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
-  ],
   "collections": [
     {
-      "id": 1,
-      "name": "TEST1",
-      "description": "OALLALALALALALAL",
-      "cards": [
-        {
-          "id": "1"
-        },
-        {
-          "id": "2"
-        },
-        {
-          "id": "3"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "TEST3",
-      "description": "OIAJGIAIERGJAIJJ",
-      "cards": [
-        {
-          "id": "4"
-        },
-        {
-          "id": "5"
-        },
-        {
-          "id": "6"
-        }
-      ]
-    },
-    {
       "name": "Eugen's collection",
-      "description": "yoloooo",
-      "id": 3
+      "description": "Donec interdum augue laoreet ante pulvinar pharetra. Sed consectetur tempor tristique. Sed vel arcu blandit, volutpat nibh in, egestas lorem. Vivamus vehicula imperdiet efficitur. Donec ut euismod sem. Praesent nibh diam, ultricies sit amet tempor vel, consequat vitae ipsum. Nullam in diam vulputate, sagittis ex a, venenatis sapien. Sed hendrerit egestas convallis. Morbi lectus turpis, elementum sed ex vitae, fermentum suscipit ipsum. Vivamus non ipsum sed ex accumsan pretium sit amet ut enim. Nullam pretium mi nunc, nec congue lorem molestie in. Praesent gravida nibh urna, sit amet hendrerit eros rutrum ac.",
+      "cards": [
+        "dp3-1",
+        "ex12-1",
+        "mcd19-1"
+      ],
+      "id": 1
     },
     {
-      "anothervar": "Eugen's collection",
-      "NotDescription": "yoloooo",
-      "id": 4
-    },
-    {
-      "name": "tessssst",
-      "description": "tessst",
-      "id": 5
-    },
-    {
-      "name": "hahahahah",
-      "description": "ahahahahaha",
-      "id": 6
-    },
-    {
-      "name": "hahahahah",
-      "description": "ahahahahaha",
-      "id": 7
-    },
-    {
-      "name": "hahahahah",
-      "description": "ahahahahaha",
-      "id": 8
-    },
-    {
-      "name": "hahahahah",
-      "description": "ahahahahaha",
-      "id": 9
-    },
-    {
-      "name": "hahahahah",
-      "description": "ahahahahaha",
-      "id": 10
-    },
-    {
-      "name": "Hallo",
-      "description": "Jpp",
-      "id": 11
-    },
-    {
-      "name": "This is a collection",
-      "description": "Hallo everyone",
-      "id": 12
-    },
-    {
-      "name": "test",
-      "description": "test",
-      "id": 13
+      "name": "The best collection",
+      "description": "Donec interdum augue laoreet ante pulvinar pharetra. Sed consectetur tempor tristique. Sed vel arcu blandit, volutpat nibh in, egestas lorem. Vivamus vehicula imperdiet efficitur. Donec ut euismod sem. Praesent nibh diam, ultricies sit ametazer az",
+      "cards": [
+        "dp3-1",
+        "ex12-1",
+        "mcd19-1"
+      ],
+      "id": 2
     }
   ]
 }
